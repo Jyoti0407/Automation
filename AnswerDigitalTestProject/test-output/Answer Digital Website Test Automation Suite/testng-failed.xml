@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Answer Digital Website Test Automation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Answer digital website Test Cases(failed)">
+    <classes>
+      <class name="com.answerdigital.qa.testcases.HomePageTest">
+        <methods>
+          <include name="HomePageTitleTest"/>
+          <include name="VerifyAcademyLinkTest"/>
+          <include name="setUp"/>
+          <include name="VerifyCareerLinkTest"/>
+          <include name="tearDown"/>
+          <include name="VerifyContactUsLinkTest"/>
+          <include name="VerifyOurWorkLinkTest"/>
+          <include name="VerifyAboutUsLinkTest"/>
+          <include name="VerifyOurServicesLinkTest"/>
+          <include name="AnswerDigitalLogoImageTest"/>
+          <include name="VerifyInsightLinkTest"/>
+        </methods>
+      </class> <!-- com.answerdigital.qa.testcases.HomePageTest -->
+      <class name="com.answerdigital.qa.testcases.JobApplyPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ApplyJobLinkTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.answerdigital.qa.testcases.JobApplyPageTest -->
+      <class name="com.answerdigital.qa.testcases.CareersPageTest">
+        <methods>
+          <include name="SearchJobLinkTest"/>
+          <include name="CareersPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.answerdigital.qa.testcases.CareersPageTest -->
+    </classes>
+  </test> <!-- Answer digital website Test Cases(failed) -->
+</suite> <!-- Failed suite [Answer Digital Website Test Automation Suite] -->

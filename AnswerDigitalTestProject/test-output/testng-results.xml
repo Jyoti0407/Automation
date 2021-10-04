@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-03T23:34:25 BST" name="Answer Digital Website Test Automation Suite" finished-at="2021-10-03T23:36:34 BST" duration-ms="129580">
+    <groups>
+    </groups>
+    <test started-at="2021-10-03T23:34:25 BST" name="Answer digital website Test Cases" finished-at="2021-10-03T23:36:34 BST" duration-ms="129580">
+      <class name="com.answerdigital.qa.testcases.SearchJobPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:35:29 BST" name="setUp" finished-at="2021-10-03T23:35:57 BST" duration-ms="27851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchPageTitleTest()[pri:1, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:35:57 BST" name="searchPageTitleTest" finished-at="2021-10-03T23:35:57 BST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:35:57 BST" name="tearDown" finished-at="2021-10-03T23:35:57 BST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:35:57 BST" name="setUp" finished-at="2021-10-03T23:36:16 BST" duration-ms="19235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchJobTest()[pri:2, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:36:16 BST" name="searchJobTest" finished-at="2021-10-03T23:36:34 BST" duration-ms="17509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchJobTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.SearchJobPageTest@2d710f1a]" started-at="2021-10-03T23:36:34 BST" name="tearDown" finished-at="2021-10-03T23:36:34 BST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.answerdigital.qa.testcases.SearchJobPageTest -->
+      <class name="com.answerdigital.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:25 BST" name="setUp" finished-at="2021-10-03T23:34:42 BST" duration-ms="17185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:42 BST" name="HomePageTitleTest" finished-at="2021-10-03T23:34:42 BST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:42 BST" name="tearDown" finished-at="2021-10-03T23:34:42 BST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:42 BST" name="setUp" finished-at="2021-10-03T23:34:58 BST" duration-ms="15617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AnswerDigitalLogoImageTest()[pri:2, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:58 BST" name="AnswerDigitalLogoImageTest" finished-at="2021-10-03T23:34:58 BST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnswerDigitalLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:58 BST" name="tearDown" finished-at="2021-10-03T23:34:58 BST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:34:58 BST" name="setUp" finished-at="2021-10-03T23:35:13 BST" duration-ms="14836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyOurServicesLinkTest()[pri:3, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:35:13 BST" name="VerifyOurServicesLinkTest" finished-at="2021-10-03T23:35:13 BST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOurServicesLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:35:13 BST" name="tearDown" finished-at="2021-10-03T23:35:14 BST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:35:14 BST" name="setUp" finished-at="2021-10-03T23:35:28 BST" duration-ms="14835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyCareerLinkTest()[pri:4, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:35:28 BST" name="VerifyCareerLinkTest" finished-at="2021-10-03T23:35:29 BST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCareerLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.answerdigital.qa.testcases.HomePageTest@209da20d]" started-at="2021-10-03T23:35:29 BST" name="tearDown" finished-at="2021-10-03T23:35:29 BST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.answerdigital.qa.testcases.HomePageTest -->
+    </test> <!-- Answer digital website Test Cases -->
+  </suite> <!-- Answer Digital Website Test Automation Suite -->
+</testng-results>
